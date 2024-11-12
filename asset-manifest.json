@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Web_Portfolio/static/css/main.1b701577.css",
+    "main.js": "/Web_Portfolio/static/js/main.9c9b8c7c.js",
+    "static/media/3.png": "/Web_Portfolio/static/media/3.c5c05c720bae01f47fe8.png",
+    "static/media/1.png": "/Web_Portfolio/static/media/1.62423a1c14a5f4409284.png",
+    "static/media/about.png": "/Web_Portfolio/static/media/about.47321c2424fb512322c8.png",
+    "static/media/IMG_8087.jpg": "/Web_Portfolio/static/media/IMG_8087.0f9af36a8806da175a3d.jpg",
+    "static/media/4.png": "/Web_Portfolio/static/media/4.aa2fe493b6408e323aca.png",
+    "static/media/2.png": "/Web_Portfolio/static/media/2.65020a793d885d43e309.png",
+    "static/media/JaafaryFred_Resume.pdf": "/Web_Portfolio/static/media/JaafaryFred_Resume.5d5a436e5360e8296413.pdf",
+    "index.html": "/Web_Portfolio/index.html",
+    "main.1b701577.css.map": "/Web_Portfolio/static/css/main.1b701577.css.map",
+    "main.9c9b8c7c.js.map": "/Web_Portfolio/static/js/main.9c9b8c7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b701577.css",
+    "static/js/main.9c9b8c7c.js"
+  ]
+}
